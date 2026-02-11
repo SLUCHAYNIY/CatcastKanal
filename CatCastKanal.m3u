@@ -99,7 +99,18 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Z5jL1w/photo-5386795171908882253-m-removebg-preview.png", Alvin Ovcu TV
 #EXTGRP:Azerbaycan
 http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
-
+#EXTINF:0 tvg-rec="0",Buglama[BY-Kerimoff]
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-buglama.m3u8
+#EXTINF:0 tvg-rec="0",Comedyxana[BY-Kerimoff]
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-comedyxana.m3u8
+#EXTINF:0 tvg-rec="0",AZ-Comedy[BY-Kerimoff]
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-azcomedy.m3u8
+#EXTINF:-1,by-Vetendash A az
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50250/seg-25410296-v1-a1/index.m3u8
 
 #EXTINF:-1 tvg-name="PlayerCinema TV"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50341-698b353944331.png",PlayerCinema Action
 #EXTGRP:Azerbaycan
@@ -113,7 +124,7 @@ https://v2.catcast.tv/content/50392/seg-25495827-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Bozbash Pikcher"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b495e5c4bd.png",PlayerKomedi Bozbash Pikcher
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50393/seg-25495849-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8",PlayerFilm AZERBAYCAN
+#EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png",PlayerFilm AZERBAYCAN
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50472/seg-25564410-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerFilm TÜRKIYE"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50471-698617f126fce.png",PlayerFilm TÜRKIYE
@@ -195,7 +206,7 @@ https://str.yodacdn.net/tmb/mono.ts.m3u8
 #EXTINF:-1,KANAL 65 Music
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/megatvaz.m3u8
-#EXTINF:-1,Kanal65 az Music 
+#EXTINF:-1,Kanal65 az Music 2
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/47437/seg-25409996-v1-a1/index.m3u8
 #EXTINF:0 tvg-rec="0",Mugam dunyamiz
